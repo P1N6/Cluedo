@@ -1,4 +1,4 @@
 import CluedoCard
 
 class WeaponCard(CluedoCard):
-    pass
+    type = "Weapon"
